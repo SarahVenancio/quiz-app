@@ -1,0 +1,233 @@
+{
+  "easy": [
+    {
+      "question": "Qual animal é conhecido como o 'rei da selva'?",
+      "options": ["Elefante", "Tigre", "Leão", "Urso"],
+      "correctAnswer": "Leão"
+    },
+    {
+      "question": "Quanto é 7 x 8?",
+      "options": ["49", "56", "64", "72"],
+      "correctAnswer": "56"
+    },
+    {
+      "question": "Qual o nome da capital do Brasil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correctAnswer": "Brasília"
+    },
+    {
+      "question": "Qual a empresa que criou o sistema operacional Windows?",
+      "options": ["Apple", "Microsoft", "Google", "Amazon"],
+      "correctAnswer": "Microsoft"
+    },
+    {
+      "question": "O que o gado come?",
+      "options": ["Carne", "Frutas", "Grama", "Peixe"],
+      "correctAnswer": "Grama"
+    },
+    {
+      "question": "Qual país é famoso pela Torre Eiffel?",
+      "options": ["Itália", "Alemanha", "França", "Espanha"],
+      "correctAnswer": "França"
+    },
+    {
+      "question": "Quantos anos tem um século?",
+      "options": ["10", "50", "100", "1000"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Qual o nome do famoso cantor conhecido como 'Rei do Rock'?",
+      "options": ["Michael Jackson", "Freddie Mercury", "Elvis Presley", "Frank Sinatra"],
+      "correctAnswer": "Elvis Presley"
+    },
+    {
+      "question": "O que é um 'bug' em programação?",
+      "options": ["Um erro no código", "Uma nova funcionalidade", "Uma linha de código extra", "Um programa de segurança"],
+      "correctAnswer": "Um erro no código"
+    },
+    {
+      "question": "Qual a cor da bandeira do Brasil que representa o céu?",
+      "options": ["Verde", "Amarelo", "Azul", "Branco"],
+      "correctAnswer": "Azul"
+    },
+    {
+      "question": "Quanto é 50% de 200?",
+      "options": ["50", "100", "150", "200"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Qual o planeta mais próximo do Sol?",
+      "options": ["Marte", "Vênus", "Mercúrio", "Terra"],
+      "correctAnswer": "Mercúrio"
+    },
+    {
+      "question": "Qual a banda que cantou a música 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "Pink Floyd"],
+      "correctAnswer": "Queen"
+    },
+    {
+      "question": "Qual o maior oceano do mundo?",
+      "options": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+      "correctAnswer": "Pacífico"
+    },
+    {
+      "question": "Se um círculo tem um diâmetro de 10 cm, qual é o seu raio?",
+      "options": ["5 cm", "10 cm", "20 cm", "15 cm"],
+      "correctAnswer": "5 cm"
+    }
+  ],
+  "medium": [
+    {
+      "question": "Qual gás é responsável pela coloração do ar que respiramos?",
+      "options": ["Oxigênio", "Nitrogênio", "Gás carbônico", "Hidrogênio"],
+      "correctAnswer": "Nitrogênio"
+    },
+    {
+      "question": "Em que ano a Segunda Guerra Mundial terminou?",
+      "options": ["1942", "1945", "1950", "1939"],
+      "correctAnswer": "1945"
+    },
+    {
+      "question": "Qual a linguagem de programação mais usada para desenvolver sites?",
+      "options": ["Python", "Java", "C++", "JavaScript"],
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "question": "Qual o nome do famoso físico que formulou a teoria da relatividade?",
+      "options": ["Isaac Newton", "Galileu Galilei", "Albert Einstein", "Stephen Hawking"],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "question": "Qual é a montanha mais alta do mundo?",
+      "options": ["Monte Kilimanjaro", "Monte Everest", "Mont Blanc", "K2"],
+      "correctAnswer": "Monte Everest"
+    },
+    {
+      "question": "Quem escreveu a obra 'Dom Quixote'?",
+      "options": ["William Shakespeare", "Miguel de Cervantes", "Machado de Assis", "Homer"],
+      "correctAnswer": "Miguel de Cervantes"
+    },
+    {
+      "question": "Se x + 5 = 12, qual é o valor de x?",
+      "options": ["5", "7", "10", "17"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Qual a moeda oficial do Japão?",
+      "options": ["Won", "Yuan", "Dólar", "Iene"],
+      "correctAnswer": "Iene"
+    },
+    {
+      "question": "O que significa a sigla 'URL'?",
+      "options": ["Universal Resource Location", "Uniform Resource Locator", "User Remote Login", "Universal Router Link"],
+      "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Qual o nome do festival de música conhecido por ser o 'maior do mundo'?",
+      "options": ["Coachella", "Lollapalooza", "Rock in Rio", "Tomorrowland"],
+      "correctAnswer": "Rock in Rio"
+    },
+    {
+      "question": "Qual o nome da camada protetora da Terra contra a radiação solar?",
+      "options": ["Atmosfera", "Biosfera", "Hidrosfera", "Camada de Ozônio"],
+      "correctAnswer": "Camada de Ozônio"
+    },
+    {
+      "question": "Qual a raiz quadrada de 81?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Qual o nome da famosa escultura de Michelangelo?",
+      "options": ["A Vênus de Milo", "O Pensador", "O Davi", "A Pietà"],
+      "correctAnswer": "O Davi"
+    },
+    {
+      "question": "Qual a capital do Canadá?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correctAnswer": "Ottawa"
+    },
+    {
+      "question": "Qual o nome da famosa cantora conhecida como 'Rainha do Pop'?",
+      "options": ["Madonna", "Whitney Houston", "Mariah Carey", "Beyoncé"],
+      "correctAnswer": "Madonna"
+    }
+  ],
+  "hard": [
+    {
+      "question": "Em que ano a Declaração de Independência dos EUA foi assinada?",
+      "options": ["1776", "1789", "1801", "1765"],
+      "correctAnswer": "1776"
+    },
+    {
+      "question": "Qual o nome do criador da World Wide Web?",
+      "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+      "correctAnswer": "Tim Berners-Lee"
+    },
+    {
+      "question": "Qual é o único metal líquido à temperatura ambiente?",
+      "options": ["Cobre", "Mercúrio", "Gálio", "Alumínio"],
+      "correctAnswer": "Mercúrio"
+    },
+    {
+      "question": "Quem foi o primeiro explorador a circum-navegar a Terra?",
+      "options": ["Cristóvão Colombo", "Vasco da Gama", "Fernão de Magalhães", "Marco Polo"],
+      "correctAnswer": "Fernão de Magalhães"
+    },
+    {
+      "question": "Qual a principal função de um 'firewall'?",
+      "options": ["Aumentar a velocidade da internet", "Proteger um sistema de rede contra acessos não autorizados", "Otimizar o desempenho do computador", "Instalar programas automaticamente"],
+      "correctAnswer": "Proteger um sistema de rede contra acessos não autorizados"
+    },
+    {
+      "question": "Qual filósofo grego é considerado o pai da filosofia ocidental?",
+      "options": ["Platão", "Aristóteles", "Sócrates", "Tales de Mileto"],
+      "correctAnswer": "Sócrates"
+    },
+    {
+      "question": "Qual o nome do famoso pianista e compositor polonês do século XIX?",
+      "options": ["Franz Liszt", "Frédéric Chopin", "Piotr Tchaikovsky", "Ludwig van Beethoven"],
+      "correctAnswer": "Frédéric Chopin"
+    },
+    {
+      "question": "Qual é a capital da Austrália?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "O que é 'HTML'?",
+      "options": ["Uma linguagem de programação", "Uma linguagem de marcação", "Um banco de dados", "Um sistema operacional"],
+      "correctAnswer": "Uma linguagem de marcação"
+    },
+    {
+      "question": "Qual o nome da teoria científica sobre a origem do universo?",
+      "options": ["Teoria da Evolução", "Teoria da Relatividade", "Teoria da Gravidade", "Teoria do Big Bang"],
+      "correctAnswer": "Teoria do Big Bang"
+    },
+    {
+      "question": "O que é um 'algoritmo'?",
+      "options": ["Um programa de computador", "Uma sequência de passos para resolver um problema", "Um tipo de vírus", "Um hardware de computador"],
+      "correctAnswer": "Uma sequência de passos para resolver um problema"
+    },
+    {
+      "question": "Qual o nome da cordilheira mais longa do mundo?",
+      "options": ["Cordilheira do Himalaia", "Cordilheira dos Andes", "Montanhas Rochosas", "Alpes"],
+      "correctAnswer": "Cordilheira dos Andes"
+    },
+    {
+      "question": "Qual o nome do famoso navio que afundou em 1912?",
+      "options": ["Britannic", "Lusitania", "Titanic", "Queen Mary"],
+      "correctAnswer": "Titanic"
+    },
+    {
+      "question": "Qual é o maior animal da família dos felinos?",
+      "options": ["Leão", "Tigre", "Jaguar", "Leopardo"],
+      "correctAnswer": "Tigre"
+    },
+    {
+      "question": "Qual é o resultado de 100 - (10 x 5)?",
+      "options": ["50", "450", "95", "60"],
+      "correctAnswer": "50"
+    }
+  ]
+}
