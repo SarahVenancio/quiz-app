@@ -51,7 +51,7 @@ O aplicativo apresenta um questionário com feedback instantâneo, tela de resul
 
 ```bash
 # 1. Clone o repositório
-$ git clone [link-do-seu-repositorio]
+$ git clone https://github.com/SarahVenancio/quiz-app.git
 
 # 2. Navegue até o diretório do projeto
 $ cd quiz-app
