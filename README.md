@@ -89,6 +89,13 @@ Outro aprendizado importante foi o uso de **useEffect** para controlar o ciclo d
 
 ---
 
+## 📱Teste em casa
+Leia o QRCode com a câmera do seu Android e clique em "Install", assim, ela irá iniciar o download.
+Habilite a opção "Instalar apps desconhecidos", nas Configurações, em "Segurança" ou "Aplicativos".
+
+![alt text](image.png)
+
+---
 ### 👨‍💻 Autora
 [<img src="https://avatars.githubusercontent.com/u/165316263?v=4" width=115><br><sub>Sarah Dias Venâncio</sub>](https://github.com/SarahVenancio) 
 
